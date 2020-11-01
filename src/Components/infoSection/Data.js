@@ -15,6 +15,8 @@ export const homeObjOne = {
     darkText: false,
     color: '#f7f8fa',
 };
+
+
 export const homeObjTwo = {
     id: 'discover',
     color: '#010606',

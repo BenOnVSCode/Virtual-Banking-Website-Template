@@ -3,7 +3,7 @@ import { Button } from '../ButtonElement'
 import { BtnWrap, Column1, Column2, Heading, Img, ImgWrap, InfoContainer, InfoRow, InfoWrapper, Subtitle, TextWrapper, TopLine } from './InfoElement'
 
 const InfoSection = ({color, dark, dark2, lightBg, primary, id, imgStart, topLine, headline, lightText, darkText, descreption, buttonLabel, img, alt}) => {
-    console.log(lightText)
+    
 
     const headlineStyle = {
         color: `${color}` 
