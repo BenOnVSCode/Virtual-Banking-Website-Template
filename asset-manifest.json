@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Web-site/static/css/main.4875bd4e.chunk.css",
-    "main.js": "/Web-site/static/js/main.99ff9871.chunk.js",
-    "main.js.map": "/Web-site/static/js/main.99ff9871.chunk.js.map",
-    "runtime-main.js": "/Web-site/static/js/runtime-main.8b0022c9.js",
-    "runtime-main.js.map": "/Web-site/static/js/runtime-main.8b0022c9.js.map",
-    "static/js/2.8133e914.chunk.js": "/Web-site/static/js/2.8133e914.chunk.js",
-    "static/js/2.8133e914.chunk.js.map": "/Web-site/static/js/2.8133e914.chunk.js.map",
-    "index.html": "/Web-site/index.html",
-    "static/css/main.4875bd4e.chunk.css.map": "/Web-site/static/css/main.4875bd4e.chunk.css.map",
-    "static/js/2.8133e914.chunk.js.LICENSE.txt": "/Web-site/static/js/2.8133e914.chunk.js.LICENSE.txt",
-    "static/media/video.5e99e701.mp4": "/Web-site/static/media/video.5e99e701.mp4"
+    "main.css": "/Virtual-Banking-Website-Template/static/css/main.4875bd4e.chunk.css",
+    "main.js": "/Virtual-Banking-Website-Template/static/js/main.b6c488ed.chunk.js",
+    "main.js.map": "/Virtual-Banking-Website-Template/static/js/main.b6c488ed.chunk.js.map",
+    "runtime-main.js": "/Virtual-Banking-Website-Template/static/js/runtime-main.aae1f591.js",
+    "runtime-main.js.map": "/Virtual-Banking-Website-Template/static/js/runtime-main.aae1f591.js.map",
+    "static/js/2.b0315723.chunk.js": "/Virtual-Banking-Website-Template/static/js/2.b0315723.chunk.js",
+    "static/js/2.b0315723.chunk.js.map": "/Virtual-Banking-Website-Template/static/js/2.b0315723.chunk.js.map",
+    "index.html": "/Virtual-Banking-Website-Template/index.html",
+    "static/css/main.4875bd4e.chunk.css.map": "/Virtual-Banking-Website-Template/static/css/main.4875bd4e.chunk.css.map",
+    "static/js/2.b0315723.chunk.js.LICENSE.txt": "/Virtual-Banking-Website-Template/static/js/2.b0315723.chunk.js.LICENSE.txt",
+    "static/media/video.5e99e701.mp4": "/Virtual-Banking-Website-Template/static/media/video.5e99e701.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b0022c9.js",
-    "static/js/2.8133e914.chunk.js",
+    "static/js/runtime-main.aae1f591.js",
+    "static/js/2.b0315723.chunk.js",
     "static/css/main.4875bd4e.chunk.css",
-    "static/js/main.99ff9871.chunk.js"
+    "static/js/main.b6c488ed.chunk.js"
   ]
 }
