@@ -53,7 +53,7 @@ const Footer = () => {
                         <FooterLinkItems>
                             <FooterLinkTitle>Business</FooterLinkTitle>
                                 <a href='' style={social}>Instagram</a>
-                                <a href='' style={social}>Github</a>
+                                <a href='https://github.com/4bdeladim' target='_blank' style={social}>Github</a>
                                 <a href='' style={social}>Facebook</a>
                                 <a href='' style={social}>Twitter</a>
                         </FooterLinkItems>

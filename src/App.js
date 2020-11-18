@@ -8,7 +8,7 @@ function App() {
   return (
     <Router >
       <Switch>
-        <Route path="/Web-site" component={Home} exact />
+        <Route path="/Virtual-Banking-Website-Template" component={Home} exact />
         <Route path="/signin" component={SigninPage} />
       </Switch> 
     </Router>

@@ -23,7 +23,7 @@ const Navbar = ({toggle}) => {
         <>
             <Nav scrollNav={scrollNav}>
                 <NavbarContainer>
-                    <NavLogo to='/Web-site' onClick={toggleHome} > dolla </NavLogo>
+                    <NavLogo to='/Virtual-Banking-Website-Template' onClick={toggleHome} > dolla </NavLogo>
                     <MobileIcon onClick={toggle}>
                         <FaBars />
                     </MobileIcon>
